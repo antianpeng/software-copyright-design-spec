@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
+*.pyo
 .DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 生成产出物
+diagrams/
+*.doc
+*.docx

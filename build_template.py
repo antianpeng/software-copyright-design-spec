@@ -80,7 +80,7 @@ SELECTED_FILES = [
 # ── 工具路径（一般不用改）──
 MMDC = "mmdc"  # 或 r"C:\Users\{user}\AppData\Roaming\npm\mmdc.cmd"
 DOT = "dot"    # 或 r"C:\Program Files\Graphviz\bin\dot.exe"
-TEMPLATE_DOC = r"D:\2026软著\模板\基于人工智能的电力现场作业音视频合规分析与工单联动系统软件V1.0.doc"
+TEMPLATE_DOC = r""  # TODO: 填写申请表 .doc 模板的绝对路径
 DIAGRAMS_DIR = os.path.join(OUTPUT_DIR, "diagrams")
 
 # ═══════════════════════════════════════════════════════════════════════
